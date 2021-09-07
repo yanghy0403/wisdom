@@ -1,0 +1,277 @@
+ {
+    "nodes": [
+        {
+            "name": "计算机技术",
+            "category": "keyword",
+            "id": "32b837b0727b4ae9ab446386c4a63278"
+        },
+        {
+            "name": "办公自动化",
+            "category": "keyword",
+            "id": "03b547321d634972b263f2e961f25b41"
+        },
+        {
+            "name": "应用",
+            "category": "keyword",
+            "id": "e07c15d0288540d48f763a06cfed88ae"
+        },
+        {
+            "name": "网络技术",
+            "category": "keyword",
+            "id": "f8fede65883842b4b6206f32a1531d95"
+        },
+        {
+            "name": "信息技术",
+            "category": "keyword",
+            "id": "4f962f2fc8164df28832f62e0548a5a5"
+        },
+        {
+            "name": "通信技术",
+            "category": "keyword",
+            "id": "576d664754844d7890381bb870197ed4"
+        },
+        {
+            "name": "软件开发",
+            "category": "keyword",
+            "id": "42378bc9a3e2411bb527ff39c0ad5607"
+        },
+        {
+            "name": "发展",
+            "category": "keyword",
+            "id": "b96b79d22947452d9afc4a188cb42d89"
+        },
+        {
+            "name": "数据处理",
+            "category": "keyword",
+            "id": "7400025c444c47ee9de9fb9c9f9fe14a"
+        },
+        {
+            "name": "办公自动化系统",
+            "category": "keyword",
+            "id": "f51e2cebf1744c2d8e8551c92cc01fc7"
+        },
+        {
+            "name": "发展趋势",
+            "category": "keyword",
+            "id": "61dd095cd48343028b51d307b06c757f"
+        },
+        {
+            "name": "管理信息系统",
+            "category": "keyword",
+            "id": "84eb582f3ce043a988580d3ffcf0972d"
+        },
+        {
+            "name": "网络安全",
+            "category": "keyword",
+            "id": "898eaf3a9c224b1a8822ea3476265249"
+        },
+        {
+            "name": "数据库",
+            "category": "keyword",
+            "id": "96eafba8a13740afb71c3669c957d325"
+        },
+        {
+            "name": "计算机应用",
+            "category": "keyword",
+            "id": "5aad4e3c5e914477be84243f454f87cc"
+        },
+        {
+            "name": "信息系统",
+            "category": "keyword",
+            "id": "b68d311f82cf4043beeb152b5ade8ee4"
+        },
+        {
+            "name": "图像处理",
+            "category": "keyword",
+            "id": "e4896647d89e4508b487c17cfc46177d"
+        },
+        {
+            "name": "计算机系统",
+            "category": "keyword",
+            "id": "522b55765a744fc3bacf4b6225f214d1"
+        },
+        {
+            "name": "计算机软件",
+            "category": "keyword",
+            "id": "792e8d72f31641bba2b89d925a795c76"
+        },
+        {
+            "name": "计算机网络",
+            "category": "keyword",
+            "id": "38eb58cf7f0948c38f279029dc368f8f"
+        },
+        {
+            "name": "多媒体技术",
+            "category": "keyword",
+            "id": "c19868987f1847f8a649d438bb582dcc"
+        },
+        {
+            "name": "操作系统",
+            "category": "keyword",
+            "id": "500979acfb4d4fc2b81289111184803d"
+        },
+        {
+            "name": "服务器",
+            "category": "keyword",
+            "id": "f45df181fab24e90ad327d05de2e4352"
+        },
+        {
+            "name": "软件",
+            "category": "keyword",
+            "id": "705fdb2a8b1a4f869c92a8e0794da841"
+        },
+        {
+            "name": "设计",
+            "category": "keyword",
+            "id": "c21bb4ebeff54dd68e970e6552f475b3"
+        },
+        {
+            "name": "管理系统",
+            "category": "keyword",
+            "id": "5b476142d85d4480b0be07bc5f5403ca"
+        },
+        {
+            "name": "应用研究",
+            "category": "keyword",
+            "id": "6486063b64a84b7e96f517adafe97c90"
+        },
+        {
+            "name": "人工智能",
+            "category": "keyword",
+            "id": "a38530832f4145abbf8c9a40d851f90a"
+        },
+        {
+            "name": "应用软件",
+            "category": "keyword",
+            "id": "bd37f03293384942b671bd21ef44c2db"
+        },
+        {
+            "name": "计算机辅助设计",
+            "category": "keyword",
+            "id": "678ea9f70f3c442188912317c1cec806"
+        }
+    ],
+    "links": [
+        {
+
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "32b837b0727b4ae9ab446386c4a63278"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "03b547321d634972b263f2e961f25b41"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "e07c15d0288540d48f763a06cfed88ae"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "f8fede65883842b4b6206f32a1531d95"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "4f962f2fc8164df28832f62e0548a5a5"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "576d664754844d7890381bb870197ed4"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "42378bc9a3e2411bb527ff39c0ad5607"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "b96b79d22947452d9afc4a188cb42d89"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "7400025c444c47ee9de9fb9c9f9fe14a"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "f51e2cebf1744c2d8e8551c92cc01fc7"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "61dd095cd48343028b51d307b06c757f"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "84eb582f3ce043a988580d3ffcf0972d"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "898eaf3a9c224b1a8822ea3476265249"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "96eafba8a13740afb71c3669c957d325"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "5aad4e3c5e914477be84243f454f87cc"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "b68d311f82cf4043beeb152b5ade8ee4"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "e4896647d89e4508b487c17cfc46177d"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "522b55765a744fc3bacf4b6225f214d1"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "792e8d72f31641bba2b89d925a795c76"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "38eb58cf7f0948c38f279029dc368f8f"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "c19868987f1847f8a649d438bb582dcc"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "500979acfb4d4fc2b81289111184803d"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "f45df181fab24e90ad327d05de2e4352"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "705fdb2a8b1a4f869c92a8e0794da841"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "c21bb4ebeff54dd68e970e6552f475b3"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "5b476142d85d4480b0be07bc5f5403ca"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "6486063b64a84b7e96f517adafe97c90"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "a38530832f4145abbf8c9a40d851f90a"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "bd37f03293384942b671bd21ef44c2db"
+        },
+        {
+            "source": "32b837b0727b4ae9ab446386c4a63278",
+            "target": "678ea9f70f3c442188912317c1cec806"
+        }
+    ]
+}

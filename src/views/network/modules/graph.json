@@ -1,0 +1,1425 @@
+{
+    "categories": ["人才", "论文", "专利", "奖励", "标准"],
+    "nodes": [
+        {
+            "name": "谭久彬",
+            "id": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "category": "人才",
+            "influence": 60
+        },
+        {
+            "name": "崔继文",
+            "id": "e744af797e5a4d67908897715681fdfb",
+            "category": "人才",
+            "influence": 60
+        },
+        {
+            "name": "由正交傅里叶-梅林矩定位的双光纤耦合微内尺度测量",
+            "id": "c18648089e314946b8a05f2dbadd73ee",
+            "category": "论文"
+        },
+        {
+            "name": "双工件台宏微交接系统设计及实验",
+            "id": "2c721ff147064a81bd203d8d2cba82c5",
+            "category": "论文"
+        },
+        {
+            "name": "基于滤波的准直光束漂移反馈补偿方法研究",
+            "id": "3f5082a8d6e74a6ea3cc77d38d262cf2",
+            "category": "论文"
+        },
+        {
+            "name": "精密微小内尺度测量技术研究进展",
+            "id": "883813f12b79411caf234b7eec015e8e",
+            "category": "论文"
+        },
+        {
+            "name": "基于激光与望远光瞳结合的星间基线指向测量方法",
+            "id": "02850203f76b47c9a95b00a8162093ca",
+            "category": "论文"
+        },
+        {
+            "name": "超精密级二维工作台的自标定",
+            "id": "9337786590e642b1b2c44a2836f0214a",
+            "category": "论文"
+        },
+        {
+            "name": "面向在轨测量任务的伴飞机器人三维仿真系统",
+            "id": "50bfd49d85f9435f9cf13bf08cac3bed",
+            "category": "论文"
+        },
+        {
+            "name": "一种基于双导轨双驱步进扫描的双工件台交换装置与方法",
+            "id": "2141658ecd1740d29fa7161aee067c19",
+            "category": "专利"
+        },
+        {
+            "name": "基于自组装原理的三芯光纤光栅微尺度测量探针制作方法",
+            "id": "aaf364914b0244f9abd5f22a2b4e7cf9",
+            "category": "专利"
+        },
+        {
+            "name": "基于双芯光纤光栅的二维微尺度测量装置及方法",
+            "id": "eedcb5034bad44b09206c50c36a49ac6",
+            "category": "专利"
+        },
+        {
+            "name": "基于反射镜平动的超高频响高灵敏度光束偏转控制装置",
+            "id": "6223ceaf6277431c9edcf603a42d073b",
+            "category": "专利"
+        },
+        {
+            "name": "基于受激布里渊原理的三芯光纤空间形状测量装置及方法",
+            "id": "c35b8398c28d4102b67fc214dc5e06ea",
+            "category": "专利"
+        },
+        {
+            "name": "基于偏振态检测的双光纤耦合球微尺度传感器",
+            "id": "baf465721fb344eea6103c2675aaf0b3",
+            "category": "专利"
+        },
+        {
+            "name": "基于光纤布拉格光栅的接触式温度无感三维探测传感器",
+            "id": "cad4176fbedf481dbc4a32b35cf6c40a",
+            "category": "专利"
+        },
+        {
+            "name": "基于光纤环形激光器的四芯光纤光栅探针微尺度测量装置及方法",
+            "id": "030eaba198104febb108cc5275684f2c",
+            "category": "专利"
+        },
+        {
+            "name": "基于线性腔光纤激光器的四芯光纤光栅探针微尺度测量装置及方法",
+            "id": "20853b2bfd0548c984a96fea15c9108c",
+            "category": "专利"
+        },
+        {
+            "name": "基于光纤环形激光器的五芯光纤光栅探针微尺度测量装置及方法",
+            "id": "480151cd0ac54ff5a14b6cc0920f0462",
+            "category": "专利"
+        },
+        {
+            "name": "基于自组装原理的七芯光纤光栅微尺度测量探针制作方法",
+            "id": "e14d8c45d1b140e3911978019cf41b34",
+            "category": "专利"
+        },
+        {
+            "name": "基于光纤环形激光器的双光纤光栅探针微尺度测量装置及方法",
+            "id": "a01d1266b0814c94a897c8b0148dc541",
+            "category": "专利"
+        },
+        {
+            "name": "基于双光栅的高精度三维角度测量方法与装置",
+            "id": "f25e392a730349a0afd28c44d17ff542",
+            "category": "专利"
+        },
+        {
+            "name": "基于光栅的跟随式三维光电自准直方法与装置",
+            "id": "29bc2f0228ca4b2ba8d1f22144cdc68d",
+            "category": "专利"
+        },
+        {
+            "name": "基于偏振态检测的单光纤耦合球微尺度传感器",
+            "id": "c9cf0e9c21fa439b9222e691a3db82ae",
+            "category": "专利"
+        },
+        {
+            "name": "光刻机工件台陀螺定轴式稳定装置",
+            "id": "3975a076e59149ab8d5092178c592490",
+            "category": "专利"
+        },
+        {
+            "name": "基于光纤布拉格光栅的微孔尺寸测量装置及方法",
+            "id": "e208547ef83447a7adf3260ff4140c46",
+            "category": "专利"
+        },
+        {
+            "name": "基于偏振态检测的保偏平光纤耦合球微尺度传感器",
+            "id": "92cffe51841a44848cfaa7085b826389",
+            "category": "专利"
+        },
+        {
+            "name": "基于透射光栅的高精度滚转角测量方法与装置",
+            "id": "ec6b791a9aa84c45b782c15787b91d94",
+            "category": "专利"
+        },
+        {
+            "name": "光刻机工件台陀螺进动式主动稳定装置",
+            "id": "57a55b68adb94102b8c35f47d0d73aef",
+            "category": "专利"
+        },
+        {
+            "name": "基于线缆盒防转机构的双工件台回转交换方法与装置",
+            "id": "92c9c16d1aeb41848f1a4a38bfb55ae9",
+            "category": "专利"
+        },
+        {
+            "name": "一种窗口扫描式曝光装置",
+            "id": "86e718922012493c9b17e754860b6dc3",
+            "category": "专利"
+        },
+        {
+            "name": "一种多光阑共面的可变狭缝装置",
+            "id": "587853f00b284fd29529403f30d2e4e0",
+            "category": "专利"
+        },
+        {
+            "name": "一种用于高速曝光的质量平衡方法和装置",
+            "id": "1e860bfbe866443eae59c4161eceda61",
+            "category": "专利"
+        },
+        {
+            "name": "基于双光栅的三维角度测量方法与装置",
+            "id": "04e81301d40d4e3eba16e153df4da641",
+            "category": "专利"
+        },
+        {
+            "name": "一种过梁式步进扫描和三节拍双工件台交换装置与方法",
+            "id": "fb306ac3518c4173aedf12ec369c4c7b",
+            "category": "专利"
+        },
+        {
+            "name": "一种基于气磁悬浮的直线运动装置",
+            "id": "e5bf7e58187b4a6cbbc666b2fe59622f",
+            "category": "专利"
+        },
+        {
+            "name": "基于单／双驱步进扫描的双工件台外侧交换装置",
+            "id": "f24197daef4d40808ccfdebe6a57bee2",
+            "category": "专利"
+        },
+        {
+            "name": "基于偏振态检测的温度自补偿双光纤耦合球微尺度传感器",
+            "id": "139f89383e474d0bbb5ab1e28497b070",
+            "category": "专利"
+        },
+        {
+            "name": "正交光路二维微焦准直与三维坐标传感器",
+            "id": "3a02520e1d164394be40ab16882696ea",
+            "category": "专利"
+        },
+        {
+            "name": "基于光纤环形激光器的双芯光纤光栅探针微尺度测量装置及方法",
+            "id": "70aa99d8d4234014adcfc6ca8dfe30c2",
+            "category": "专利"
+        },
+        {
+            "name": "基于自组装原理的双芯光纤光栅微尺度测量探针制作方法",
+            "id": "5dc23d37fa954e5f806a32cf2b6fdc6d",
+            "category": "专利"
+        },
+        {
+            "name": "一种带有非等深节流腔的气浮支承导向装置",
+            "id": "874fd0ad8d48454dbd04f3b7a6133116",
+            "category": "专利"
+        },
+        {
+            "name": "基于线性腔光纤激光器的三芯光纤光栅探针微尺度测量装置及方法",
+            "id": "598f0141594b4bd1ba2ebd3fb557e42b",
+            "category": "专利"
+        },
+        {
+            "name": "基于并联机构的双工件台同相位回转交换方法与装置",
+            "id": "7f0488021b474edb9c083cc3d9ea94b0",
+            "category": "专利"
+        },
+        {
+            "name": "基于自组装原理的四芯光纤光栅微尺度测量探针制作方法",
+            "id": "8ef9bd22994f43aa89b641822e040d38",
+            "category": "专利"
+        },
+        {
+            "name": "过梁式单/双导轨双驱步进扫描双工件台交换装置与方法",
+            "id": "7a0f09c1ebb44ded9be85d7e33f834f9",
+            "category": "专利"
+        },
+        {
+            "name": "一种无线缆式双向扫描装置",
+            "id": "b687fccc6ac2413ca81034cd88cc0efb",
+            "category": "专利"
+        },
+        {
+            "name": "基于线性腔光纤激光器的五芯光纤光栅探针微尺度测量装置及方法",
+            "id": "634eada8c200412aa91dcbc3594d0687",
+            "category": "专利"
+        },
+        {
+            "name": "光刻机工件台磁预紧平衡定位系统",
+            "id": "278ad3b6aaae4bee8d5cc1fdb684d65f",
+            "category": "专利"
+        },
+        {
+            "name": "基于气磁悬浮和动磁钢的扫描曝光装置",
+            "id": "38524be1f7f246d19073e56f003c42a7",
+            "category": "专利"
+        },
+        {
+            "name": "基于自组装原理的多芯光纤扇出接头制作方法",
+            "id": "530693d2162b49459a6a63cd38421d2f",
+            "category": "专利"
+        },
+        {
+            "name": "基于光纤环形激光器的三芯光纤光栅探针微尺度测量装置及方法",
+            "id": "ad180a7bd4df493f8d4995312e6a78c6",
+            "category": "专利"
+        },
+        {
+            "name": "柔性辅助臂跟随超高角灵敏度高频响微角摆控制反射镜",
+            "id": "526d7ffa355e47c8ba845cb4f71c91f1",
+            "category": "专利"
+        },
+        {
+            "name": "基于偏振态检测的双入射保偏平光纤耦合球微尺度传感器",
+            "id": "62d7952ae7034fa2a4e49ee6906fd868",
+            "category": "专利"
+        },
+        {
+            "name": "基于三光纤共球耦合的微测量力瞄准传感器",
+            "id": "a35b3699ae1b4cbda047d6aeceab6e8e",
+            "category": "专利"
+        },
+        {
+            "name": "基于三芯光纤光栅的二维微尺度测量装置及方法",
+            "id": "de52ab2002cc4414a24124973e8d791f",
+            "category": "专利"
+        },
+        {
+            "name": "基于线性腔光纤激光器的双芯光纤光栅探针微尺度测量装置及方法",
+            "id": "c2488ebbc65949d592726c2c5b9a5398",
+            "category": "专利"
+        },
+        {
+            "name": "一种用于波长扫描系统的实时波长标定装置及标定方法",
+            "id": "e674b2237b1943f38b97d25f6d6c250b",
+            "category": "专利"
+        },
+        {
+            "name": "一种基于单/双驱动步进扫描的双工件台交换装置与方法",
+            "id": "417cb4499d0043e89b7da889faed8868",
+            "category": "专利"
+        },
+        {
+            "name": "一种半解耦的联动式可变光阑",
+            "id": "25ae467cb04b41659e02b9ef45e85015",
+            "category": "专利"
+        },
+        {
+            "name": "基于线性腔光纤激光器的双光纤光栅探针微尺度测量装置及方法",
+            "id": "177dcb52a58849f486ebea7f90d4a2de",
+            "category": "专利"
+        },
+        {
+            "name": "一种基于并列动磁钢的直线运动装置",
+            "id": "fdc82408ea1e41f2bb91bb76e0e04fdf",
+            "category": "专利"
+        },
+        {
+            "name": "基于四芯光纤光栅的三维微尺度测量装置及方法",
+            "id": "ab3c1a70f10a45399b646ad3e6cc420b",
+            "category": "专利"
+        },
+        {
+            "name": "基于双光纤光栅的二维微尺度测量装置及方法",
+            "id": "1777d825b47a4c7db47bf69b44a39356",
+            "category": "专利"
+        },
+        {
+            "name": "基于五芯光纤光栅的三维微尺度测量装置及方法",
+            "id": "b40fb8fd5cac42fd8fa282472f8c7097",
+            "category": "专利"
+        },
+        {
+            "name": "基于正交二维微焦准直的微孔测量装置与方法",
+            "id": "4992d9842d734d3d95bf9885fb6177d6",
+            "category": "专利"
+        },
+        {
+            "name": "基于三点反射合作的卫星指向与姿态测量方法与装置",
+            "id": "45a59798799d4a3fba278dce1d62b579",
+            "category": "专利"
+        },
+        {
+            "name": "基于光栅的共光路跟随式高精度三维角度测量方法与装置",
+            "id": "8b9bf66bfcb04d7191e755c190adbd72",
+            "category": "专利"
+        },
+        {
+            "name": "带有端面微结构的双光纤共球耦合微测量力瞄准传感器",
+            "id": "8a277b237b44419a9cfc7b659f984d03",
+            "category": "专利"
+        },
+        {
+            "name": "基于随动防转机构双工件台同相位回转交换方法与装置",
+            "id": "e69ff323e7d146eb93ac8e652b4c211a",
+            "category": "专利"
+        },
+        {
+            "name": "基于双入射光纤共球耦合的微测量力瞄准传感器",
+            "id": "7cb2b4d1cebc49fab7bba49ea61f7fe1",
+            "category": "专利"
+        },
+        {
+            "name": "基于线性工作匹配光栅法的光纤布拉格光栅传感器信号解调方法",
+            "id": "3dc9d82ed2794766b94876c3dfcd8475",
+            "category": "专利"
+        },
+        {
+            "name": "基于低反射率三芯光纤光栅阵列空间形状测量装置及方法",
+            "id": "a43476fc02584eacb9c6bfdeb18cd39c",
+            "category": "专利"
+        },
+        {
+            "name": "基于双轴柔性铰链的高频响二维微角摆控制反射镜",
+            "id": "ba5d5a2918c34b73a6c5b3552634c778",
+            "category": "专利"
+        },
+        {
+            "name": "一种过梁式双导轨双驱步进扫描双硅片台交换装置与方法",
+            "id": "8eebd03c56594b3a8808ff5a66ac4f62",
+            "category": "专利"
+        },
+        {
+            "name": "一种基于双导轨双驱的三节拍双工件台交换装置与方法",
+            "id": "e8b0e3e9e01b4fb1bdd6d186dcfced58",
+            "category": "专利"
+        }
+    ],
+   "links": [
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2bc18648089e314946b8a05f2dbadd73ee",
+           "sourceType": "人才",
+         "targetType": "论文",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "c18648089e314946b8a05f2dbadd73ee"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbc18648089e314946b8a05f2dbadd73ee",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "c18648089e314946b8a05f2dbadd73ee"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b2c721ff147064a81bd203d8d2cba82c5",
+           "sourceType": "人才",
+         "targetType": "论文",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "2c721ff147064a81bd203d8d2cba82c5"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb2c721ff147064a81bd203d8d2cba82c5",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "2c721ff147064a81bd203d8d2cba82c5"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b3f5082a8d6e74a6ea3cc77d38d262cf2",
+           "sourceType": "人才",
+         "targetType": "论文",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "3f5082a8d6e74a6ea3cc77d38d262cf2"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb3f5082a8d6e74a6ea3cc77d38d262cf2",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "3f5082a8d6e74a6ea3cc77d38d262cf2"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b883813f12b79411caf234b7eec015e8e",
+           "sourceType": "人才",
+         "targetType": "论文",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "883813f12b79411caf234b7eec015e8e"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb883813f12b79411caf234b7eec015e8e",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "883813f12b79411caf234b7eec015e8e"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b02850203f76b47c9a95b00a8162093ca",
+           "sourceType": "人才",
+         "targetType": "论文",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "02850203f76b47c9a95b00a8162093ca"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb02850203f76b47c9a95b00a8162093ca",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "02850203f76b47c9a95b00a8162093ca"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b9337786590e642b1b2c44a2836f0214a",
+           "sourceType": "人才",
+         "targetType": "论文",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "9337786590e642b1b2c44a2836f0214a"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb9337786590e642b1b2c44a2836f0214a",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "9337786590e642b1b2c44a2836f0214a"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b50bfd49d85f9435f9cf13bf08cac3bed",
+           "sourceType": "人才",
+         "targetType": "论文",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "50bfd49d85f9435f9cf13bf08cac3bed"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb50bfd49d85f9435f9cf13bf08cac3bed",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "50bfd49d85f9435f9cf13bf08cac3bed"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b2141658ecd1740d29fa7161aee067c19",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "2141658ecd1740d29fa7161aee067c19"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb2141658ecd1740d29fa7161aee067c19",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "2141658ecd1740d29fa7161aee067c19"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2baaf364914b0244f9abd5f22a2b4e7cf9",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "aaf364914b0244f9abd5f22a2b4e7cf9"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbaaf364914b0244f9abd5f22a2b4e7cf9",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "aaf364914b0244f9abd5f22a2b4e7cf9"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2beedcb5034bad44b09206c50c36a49ac6",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "eedcb5034bad44b09206c50c36a49ac6"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbeedcb5034bad44b09206c50c36a49ac6",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "eedcb5034bad44b09206c50c36a49ac6"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b6223ceaf6277431c9edcf603a42d073b",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "6223ceaf6277431c9edcf603a42d073b"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb6223ceaf6277431c9edcf603a42d073b",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "6223ceaf6277431c9edcf603a42d073b"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2bc35b8398c28d4102b67fc214dc5e06ea",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "c35b8398c28d4102b67fc214dc5e06ea"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbc35b8398c28d4102b67fc214dc5e06ea",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "c35b8398c28d4102b67fc214dc5e06ea"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2bbaf465721fb344eea6103c2675aaf0b3",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "baf465721fb344eea6103c2675aaf0b3"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbbaf465721fb344eea6103c2675aaf0b3",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "baf465721fb344eea6103c2675aaf0b3"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2bcad4176fbedf481dbc4a32b35cf6c40a",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "cad4176fbedf481dbc4a32b35cf6c40a"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbcad4176fbedf481dbc4a32b35cf6c40a",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "cad4176fbedf481dbc4a32b35cf6c40a"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b030eaba198104febb108cc5275684f2c",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "030eaba198104febb108cc5275684f2c"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb030eaba198104febb108cc5275684f2c",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "030eaba198104febb108cc5275684f2c"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b20853b2bfd0548c984a96fea15c9108c",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "20853b2bfd0548c984a96fea15c9108c"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb20853b2bfd0548c984a96fea15c9108c",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "20853b2bfd0548c984a96fea15c9108c"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b480151cd0ac54ff5a14b6cc0920f0462",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "480151cd0ac54ff5a14b6cc0920f0462"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb480151cd0ac54ff5a14b6cc0920f0462",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "480151cd0ac54ff5a14b6cc0920f0462"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2be14d8c45d1b140e3911978019cf41b34",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "e14d8c45d1b140e3911978019cf41b34"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbe14d8c45d1b140e3911978019cf41b34",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "e14d8c45d1b140e3911978019cf41b34"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2ba01d1266b0814c94a897c8b0148dc541",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "a01d1266b0814c94a897c8b0148dc541"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfba01d1266b0814c94a897c8b0148dc541",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "a01d1266b0814c94a897c8b0148dc541"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2bf25e392a730349a0afd28c44d17ff542",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "f25e392a730349a0afd28c44d17ff542"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbf25e392a730349a0afd28c44d17ff542",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "f25e392a730349a0afd28c44d17ff542"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b29bc2f0228ca4b2ba8d1f22144cdc68d",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "29bc2f0228ca4b2ba8d1f22144cdc68d"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb29bc2f0228ca4b2ba8d1f22144cdc68d",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "29bc2f0228ca4b2ba8d1f22144cdc68d"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2bc9cf0e9c21fa439b9222e691a3db82ae",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "c9cf0e9c21fa439b9222e691a3db82ae"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbc9cf0e9c21fa439b9222e691a3db82ae",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "c9cf0e9c21fa439b9222e691a3db82ae"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b3975a076e59149ab8d5092178c592490",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "3975a076e59149ab8d5092178c592490"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb3975a076e59149ab8d5092178c592490",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "3975a076e59149ab8d5092178c592490"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2be208547ef83447a7adf3260ff4140c46",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "e208547ef83447a7adf3260ff4140c46"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbe208547ef83447a7adf3260ff4140c46",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "e208547ef83447a7adf3260ff4140c46"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b92cffe51841a44848cfaa7085b826389",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "92cffe51841a44848cfaa7085b826389"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb92cffe51841a44848cfaa7085b826389",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "92cffe51841a44848cfaa7085b826389"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2bec6b791a9aa84c45b782c15787b91d94",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "ec6b791a9aa84c45b782c15787b91d94"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbec6b791a9aa84c45b782c15787b91d94",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "ec6b791a9aa84c45b782c15787b91d94"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b57a55b68adb94102b8c35f47d0d73aef",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "57a55b68adb94102b8c35f47d0d73aef"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb57a55b68adb94102b8c35f47d0d73aef",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "57a55b68adb94102b8c35f47d0d73aef"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b92c9c16d1aeb41848f1a4a38bfb55ae9",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "92c9c16d1aeb41848f1a4a38bfb55ae9"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb92c9c16d1aeb41848f1a4a38bfb55ae9",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "92c9c16d1aeb41848f1a4a38bfb55ae9"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b86e718922012493c9b17e754860b6dc3",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "86e718922012493c9b17e754860b6dc3"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb86e718922012493c9b17e754860b6dc3",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "86e718922012493c9b17e754860b6dc3"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b587853f00b284fd29529403f30d2e4e0",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "587853f00b284fd29529403f30d2e4e0"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb587853f00b284fd29529403f30d2e4e0",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "587853f00b284fd29529403f30d2e4e0"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b1e860bfbe866443eae59c4161eceda61",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "1e860bfbe866443eae59c4161eceda61"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb1e860bfbe866443eae59c4161eceda61",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "1e860bfbe866443eae59c4161eceda61"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b04e81301d40d4e3eba16e153df4da641",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "04e81301d40d4e3eba16e153df4da641"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb04e81301d40d4e3eba16e153df4da641",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "04e81301d40d4e3eba16e153df4da641"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2bfb306ac3518c4173aedf12ec369c4c7b",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "fb306ac3518c4173aedf12ec369c4c7b"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbfb306ac3518c4173aedf12ec369c4c7b",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "fb306ac3518c4173aedf12ec369c4c7b"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2be5bf7e58187b4a6cbbc666b2fe59622f",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "e5bf7e58187b4a6cbbc666b2fe59622f"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbe5bf7e58187b4a6cbbc666b2fe59622f",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "e5bf7e58187b4a6cbbc666b2fe59622f"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2bf24197daef4d40808ccfdebe6a57bee2",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "f24197daef4d40808ccfdebe6a57bee2"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbf24197daef4d40808ccfdebe6a57bee2",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "f24197daef4d40808ccfdebe6a57bee2"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b139f89383e474d0bbb5ab1e28497b070",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "139f89383e474d0bbb5ab1e28497b070"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb139f89383e474d0bbb5ab1e28497b070",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "139f89383e474d0bbb5ab1e28497b070"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b3a02520e1d164394be40ab16882696ea",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "3a02520e1d164394be40ab16882696ea"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb3a02520e1d164394be40ab16882696ea",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "3a02520e1d164394be40ab16882696ea"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b70aa99d8d4234014adcfc6ca8dfe30c2",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "70aa99d8d4234014adcfc6ca8dfe30c2"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb70aa99d8d4234014adcfc6ca8dfe30c2",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "70aa99d8d4234014adcfc6ca8dfe30c2"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b5dc23d37fa954e5f806a32cf2b6fdc6d",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "5dc23d37fa954e5f806a32cf2b6fdc6d"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb5dc23d37fa954e5f806a32cf2b6fdc6d",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "5dc23d37fa954e5f806a32cf2b6fdc6d"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b874fd0ad8d48454dbd04f3b7a6133116",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "874fd0ad8d48454dbd04f3b7a6133116"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb874fd0ad8d48454dbd04f3b7a6133116",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "874fd0ad8d48454dbd04f3b7a6133116"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b598f0141594b4bd1ba2ebd3fb557e42b",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "598f0141594b4bd1ba2ebd3fb557e42b"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb598f0141594b4bd1ba2ebd3fb557e42b",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "598f0141594b4bd1ba2ebd3fb557e42b"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b7f0488021b474edb9c083cc3d9ea94b0",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "7f0488021b474edb9c083cc3d9ea94b0"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb7f0488021b474edb9c083cc3d9ea94b0",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "7f0488021b474edb9c083cc3d9ea94b0"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b8ef9bd22994f43aa89b641822e040d38",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "8ef9bd22994f43aa89b641822e040d38"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb8ef9bd22994f43aa89b641822e040d38",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "8ef9bd22994f43aa89b641822e040d38"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b7a0f09c1ebb44ded9be85d7e33f834f9",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "7a0f09c1ebb44ded9be85d7e33f834f9"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb7a0f09c1ebb44ded9be85d7e33f834f9",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "7a0f09c1ebb44ded9be85d7e33f834f9"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2bb687fccc6ac2413ca81034cd88cc0efb",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "b687fccc6ac2413ca81034cd88cc0efb"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbb687fccc6ac2413ca81034cd88cc0efb",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "b687fccc6ac2413ca81034cd88cc0efb"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b634eada8c200412aa91dcbc3594d0687",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "634eada8c200412aa91dcbc3594d0687"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb634eada8c200412aa91dcbc3594d0687",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "634eada8c200412aa91dcbc3594d0687"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b278ad3b6aaae4bee8d5cc1fdb684d65f",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "278ad3b6aaae4bee8d5cc1fdb684d65f"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb278ad3b6aaae4bee8d5cc1fdb684d65f",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "278ad3b6aaae4bee8d5cc1fdb684d65f"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b38524be1f7f246d19073e56f003c42a7",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "38524be1f7f246d19073e56f003c42a7"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb38524be1f7f246d19073e56f003c42a7",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "38524be1f7f246d19073e56f003c42a7"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b530693d2162b49459a6a63cd38421d2f",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "530693d2162b49459a6a63cd38421d2f"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb530693d2162b49459a6a63cd38421d2f",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "530693d2162b49459a6a63cd38421d2f"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2bad180a7bd4df493f8d4995312e6a78c6",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "ad180a7bd4df493f8d4995312e6a78c6"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbad180a7bd4df493f8d4995312e6a78c6",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "ad180a7bd4df493f8d4995312e6a78c6"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b526d7ffa355e47c8ba845cb4f71c91f1",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "526d7ffa355e47c8ba845cb4f71c91f1"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb526d7ffa355e47c8ba845cb4f71c91f1",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "526d7ffa355e47c8ba845cb4f71c91f1"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b62d7952ae7034fa2a4e49ee6906fd868",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "62d7952ae7034fa2a4e49ee6906fd868"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb62d7952ae7034fa2a4e49ee6906fd868",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "62d7952ae7034fa2a4e49ee6906fd868"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2ba35b3699ae1b4cbda047d6aeceab6e8e",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "a35b3699ae1b4cbda047d6aeceab6e8e"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfba35b3699ae1b4cbda047d6aeceab6e8e",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "a35b3699ae1b4cbda047d6aeceab6e8e"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2bde52ab2002cc4414a24124973e8d791f",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "de52ab2002cc4414a24124973e8d791f"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbde52ab2002cc4414a24124973e8d791f",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "de52ab2002cc4414a24124973e8d791f"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2bc2488ebbc65949d592726c2c5b9a5398",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "c2488ebbc65949d592726c2c5b9a5398"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbc2488ebbc65949d592726c2c5b9a5398",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "c2488ebbc65949d592726c2c5b9a5398"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2be674b2237b1943f38b97d25f6d6c250b",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "e674b2237b1943f38b97d25f6d6c250b"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbe674b2237b1943f38b97d25f6d6c250b",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "e674b2237b1943f38b97d25f6d6c250b"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b417cb4499d0043e89b7da889faed8868",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "417cb4499d0043e89b7da889faed8868"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb417cb4499d0043e89b7da889faed8868",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "417cb4499d0043e89b7da889faed8868"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b25ae467cb04b41659e02b9ef45e85015",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "25ae467cb04b41659e02b9ef45e85015"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb25ae467cb04b41659e02b9ef45e85015",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "25ae467cb04b41659e02b9ef45e85015"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b177dcb52a58849f486ebea7f90d4a2de",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "177dcb52a58849f486ebea7f90d4a2de"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb177dcb52a58849f486ebea7f90d4a2de",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "177dcb52a58849f486ebea7f90d4a2de"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2bfdc82408ea1e41f2bb91bb76e0e04fdf",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "fdc82408ea1e41f2bb91bb76e0e04fdf"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbfdc82408ea1e41f2bb91bb76e0e04fdf",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "fdc82408ea1e41f2bb91bb76e0e04fdf"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2bab3c1a70f10a45399b646ad3e6cc420b",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "ab3c1a70f10a45399b646ad3e6cc420b"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbab3c1a70f10a45399b646ad3e6cc420b",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "ab3c1a70f10a45399b646ad3e6cc420b"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b1777d825b47a4c7db47bf69b44a39356",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "1777d825b47a4c7db47bf69b44a39356"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb1777d825b47a4c7db47bf69b44a39356",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "1777d825b47a4c7db47bf69b44a39356"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2bb40fb8fd5cac42fd8fa282472f8c7097",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "b40fb8fd5cac42fd8fa282472f8c7097"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbb40fb8fd5cac42fd8fa282472f8c7097",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "b40fb8fd5cac42fd8fa282472f8c7097"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b4992d9842d734d3d95bf9885fb6177d6",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "4992d9842d734d3d95bf9885fb6177d6"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb4992d9842d734d3d95bf9885fb6177d6",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "4992d9842d734d3d95bf9885fb6177d6"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b45a59798799d4a3fba278dce1d62b579",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "45a59798799d4a3fba278dce1d62b579"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb45a59798799d4a3fba278dce1d62b579",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "45a59798799d4a3fba278dce1d62b579"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b8b9bf66bfcb04d7191e755c190adbd72",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "8b9bf66bfcb04d7191e755c190adbd72"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb8b9bf66bfcb04d7191e755c190adbd72",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "8b9bf66bfcb04d7191e755c190adbd72"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b8a277b237b44419a9cfc7b659f984d03",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "8a277b237b44419a9cfc7b659f984d03"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb8a277b237b44419a9cfc7b659f984d03",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "8a277b237b44419a9cfc7b659f984d03"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2be69ff323e7d146eb93ac8e652b4c211a",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "e69ff323e7d146eb93ac8e652b4c211a"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbe69ff323e7d146eb93ac8e652b4c211a",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "e69ff323e7d146eb93ac8e652b4c211a"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b7cb2b4d1cebc49fab7bba49ea61f7fe1",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "7cb2b4d1cebc49fab7bba49ea61f7fe1"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb7cb2b4d1cebc49fab7bba49ea61f7fe1",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "7cb2b4d1cebc49fab7bba49ea61f7fe1"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b3dc9d82ed2794766b94876c3dfcd8475",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "3dc9d82ed2794766b94876c3dfcd8475"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb3dc9d82ed2794766b94876c3dfcd8475",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "3dc9d82ed2794766b94876c3dfcd8475"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2ba43476fc02584eacb9c6bfdeb18cd39c",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "a43476fc02584eacb9c6bfdeb18cd39c"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfba43476fc02584eacb9c6bfdeb18cd39c",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "a43476fc02584eacb9c6bfdeb18cd39c"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2bba5d5a2918c34b73a6c5b3552634c778",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "ba5d5a2918c34b73a6c5b3552634c778"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbba5d5a2918c34b73a6c5b3552634c778",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "ba5d5a2918c34b73a6c5b3552634c778"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2b8eebd03c56594b3a8808ff5a66ac4f62",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "8eebd03c56594b3a8808ff5a66ac4f62"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfb8eebd03c56594b3a8808ff5a66ac4f62",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "8eebd03c56594b3a8808ff5a66ac4f62"
+        },
+        {
+            "de-duplicationFlag":
+                "75b72e73b22b4d1c83f1d58cb6ec3c2be8b0e3e9e01b4fb1bdd6d186dcfced58",
+           "sourceType": "人才",
+         "targetType": "专利",
+            "source": "75b72e73b22b4d1c83f1d58cb6ec3c2b",
+            "target": "e8b0e3e9e01b4fb1bdd6d186dcfced58"
+        },
+        {
+            "de-duplicationFlag":
+                "e744af797e5a4d67908897715681fdfbe8b0e3e9e01b4fb1bdd6d186dcfced58",
+            "source": "e744af797e5a4d67908897715681fdfb",
+            "target": "e8b0e3e9e01b4fb1bdd6d186dcfced58"
+        }
+    ]
+}
